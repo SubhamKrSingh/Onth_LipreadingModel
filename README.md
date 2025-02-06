@@ -1,5 +1,5 @@
-
-##**Onth_LipreadingModel**
+![Image](https://github.com/user-attachments/assets/635fb032-664a-4967-bc6a-a9ff2dfdb355)
+# Onth Lipreading Model
 ONTH is an advanced lip-reading model designed to accurately interpret and transcribe spoken words by analyzing the movements of a person's lips.
 Keras implementation of the method described in the paper 'LipNet: End-to-End Sentence-level Lipreading' by Yannis M. Assael, Brendan Shillingford, Shimon Whiteson, and Nando de Freitas (https://arxiv.org/abs/1611.01599).
 
