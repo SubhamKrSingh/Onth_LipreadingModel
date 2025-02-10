@@ -1,3 +1,4 @@
+[![Onth Demo Video](https://www.linkedin.com/posts/subhamsingh02_lipreading-ai-machinelearning-activity-7294804057532116994-mIaS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3IsgIB575OMPlOO6NS2Tih4l-BW8MVLUQ)
 ![Image](https://github.com/user-attachments/assets/635fb032-664a-4967-bc6a-a9ff2dfdb355)
 # Onth Lipreading Model
 ONTH is an advanced lip-reading model designed to accurately interpret and transcribe spoken words by analyzing the movements of a person's lips.
